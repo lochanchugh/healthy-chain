@@ -1,0 +1,10 @@
+.container {
+  min-height: 20vh;
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  /* background: var(--bg); */
+  color: var(--font);
+}
